@@ -5,3 +5,5 @@
 ***
 
 - Arka arkaya operatör kullanmak mümkündür.
+
+- Mouse "sağ tık" ile menü açma özelliği devre dışı bırakılmıştır.
